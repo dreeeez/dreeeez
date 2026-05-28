@@ -1,5 +1,3 @@
-<img src="marco.jpg" alt="Marco" width="220" align="right" />
-
 # Hey, I'm Marco
 
 Glad you found your way here.
