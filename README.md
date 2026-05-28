@@ -26,3 +26,4 @@ languages: german, english, typescript, python, sql
 ## Stack
 
 Currently building with: Next.js 16 · TypeScript · React 19 · Tailwind v4 · Supabase · Vercel · Cloudflare R2 · Python · SQL Server · Power BI · Figma · Unreal Engine 5 · Claude Code
+
