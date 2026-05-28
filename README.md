@@ -1,3 +1,5 @@
+<img src="marco.jpg" alt="Marco" width="220" align="right" />
+
 # Hey, I'm Marco
 
 Glad you found your way here.
@@ -17,6 +19,8 @@ languages: german, english, typescript, python, sql
 
 ## Cool projects
 
+(Full list [here](projects.md))
+
 - **[Personal Portfolio](https://github.com/dreeeez/portfolio)** — Next.js 16, TypeScript, Tailwind v4, Cloudflare R2. The site that brought you here.
 - **Putzschichten Manager** — Telegram bot organising a parish cleaning rotation. Next.js + Supabase + Vercel.
 - **Jungschar Manager** — Telegram bot for youth-group attendance and planning. TypeScript + Open-Meteo + Supabase.
@@ -26,4 +30,3 @@ languages: german, english, typescript, python, sql
 ## Stack
 
 Currently building with: Next.js 16 · TypeScript · React 19 · Tailwind v4 · Supabase · Vercel · Cloudflare R2 · Python · SQL Server · Power BI · Figma · Unreal Engine 5 · Claude Code
-
