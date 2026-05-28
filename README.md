@@ -24,3 +24,4 @@ languages: german, english, typescript, python, sql
 - **Putzschichten Manager** — Telegram bot organising a parish cleaning rotation. Next.js + Supabase + Vercel.
 - **Jungschar Manager** — Telegram bot for youth-group attendance and planning. TypeScript + Open-Meteo + Supabase.
 - **[Data Dashboard](https://github.com/dreeeez/retail-benchmark-dashboard)** — Multi-store retail benchmark dashboard built for the HdM Sopra course. Streamlit + Python + SQL Server + Pandas + Plotly.
+- **[ML Classification](https://github.com/dreeeez/Data-Science-Modul-4SEM)** — Modeling & validation workflow for the HdM Data Science module. Baseline models → feature selection → hyperparameter tuning. Python + scikit-learn.
