@@ -23,8 +23,3 @@ languages: german, english, typescript, python, sql
 - **Putzschichten Manager** — Telegram bot organising a parish cleaning rotation. Next.js + Supabase + Vercel.
 - **Jungschar Manager** — Telegram bot for youth-group attendance and planning. TypeScript + Open-Meteo + Supabase.
 - **[Data Dashboard](https://github.com/dreeeez/Data-Science-Modul-4SEM)** — Streamlit dashboard built for the HdM Data Science module. Python + SQL Server + Pandas + Plotly.
-- **Roman Battle / Character Animation** — Cinematic shots in Unreal Engine 5. Watch them on [marcoandres.dev/projects](https://marcoandres.dev/projects).
-
-## Stack
-
-Currently building with: Next.js 16 · TypeScript · React 19 · Tailwind v4 · Supabase · Vercel · Cloudflare R2 · Python · SQL Server · Power BI · Figma · Unreal Engine 5 · Claude Code
