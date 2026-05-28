@@ -22,6 +22,6 @@ languages: german, english, typescript, python, sql
 - **[Personal Portfolio](https://github.com/dreeeez/portfolio)** — Next.js 16, TypeScript, Tailwind v4, Cloudflare R2. The site that brought you here.
 - **[Upvote Mini App](https://github.com/dreeeez/unboxideas-mini-app)** — Telegram Mini App for collecting and reacting to ideas. Vanilla JS + Supabase + Telegram WebApp.
 - **Putzschichten Manager** — Telegram bot organising a parish cleaning rotation. Next.js + Supabase + Vercel.
-- **Jungschar Manager** — Telegram bot for youth-group attendance and planning. TypeScript + Open-Meteo + Supabase.
+- **[Jungschar Manager](https://github.com/dreeeez/jungschar-manager)** — Telegram bot + admin web app for a youth group. Helper rotation, attendance polls, iCal sync, weather-aware reminders. Next.js + Supabase + grammY.
 - **[Data Dashboard](https://github.com/dreeeez/retail-benchmark-dashboard)** — Multi-store retail benchmark dashboard built for the HdM Sopra course. Streamlit + Python + SQL Server + Pandas + Plotly.
 - **[ML Classification](https://github.com/dreeeez/Data-Science-Modul-4SEM)** — Modeling & validation workflow for the HdM Data Science module. Baseline models → feature selection → hyperparameter tuning. Python + scikit-learn.
