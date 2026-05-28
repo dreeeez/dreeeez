@@ -22,4 +22,4 @@ languages: german, english, typescript, python, sql
 - **[Personal Portfolio](https://github.com/dreeeez/portfolio)** — Next.js 16, TypeScript, Tailwind v4, Cloudflare R2. The site that brought you here.
 - **Putzschichten Manager** — Telegram bot organising a parish cleaning rotation. Next.js + Supabase + Vercel.
 - **Jungschar Manager** — Telegram bot for youth-group attendance and planning. TypeScript + Open-Meteo + Supabase.
-- **[Data Dashboard](https://github.com/dreeeez/Sopra_Benchmark_18)** — Multi-store retail benchmark dashboard built for the HdM Sopra course. Streamlit + Python + SQL Server + Pandas + Plotly.
+- **[Data Dashboard](https://github.com/dreeeez/retail-benchmark-dashboard)** — Multi-store retail benchmark dashboard built for the HdM Sopra course. Streamlit + Python + SQL Server + Pandas + Plotly.
